@@ -1,1 +1,13 @@
 
+.dynamic-fields-form{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+.field-body{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
